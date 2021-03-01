@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="label_day_of_week">День Недели :</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="title">Заголовок Заметки :</string>
+    <string name="hint_description">Описание заметки :</string>
+    <string name="button_save_notes">Добавить Заметку</string>
+    <string name="warning_fill_fields">All fields must be Filled</string>
+
+    <string-array name="days_of_week">
+    <item>Monday</item>
+    <item>Tuesday</item>
+    <item>Wednesday</item>
+    <item>Thursday</item>
+    <item>Friday</item>
+    <item>Saturday</item>
+    <item>Sunday</item>
+</string-array>
+    />
+</resources>
